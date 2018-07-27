@@ -1,4 +1,4 @@
-package tij.chapter10;
+package c10;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;

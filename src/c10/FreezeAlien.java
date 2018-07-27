@@ -1,4 +1,4 @@
-package tij.chapter10;
+package c10;
 
 import java.io.FileOutputStream;
 import java.io.ObjectOutputStream;

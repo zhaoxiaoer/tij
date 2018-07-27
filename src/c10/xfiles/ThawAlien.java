@@ -1,4 +1,4 @@
-package tij.chapter10.xfiles;
+package c10.xfiles;
 
 import java.io.FileInputStream;
 import java.io.ObjectInputStream;

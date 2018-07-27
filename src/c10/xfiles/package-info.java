@@ -5,4 +5,4 @@
  * @author zhaoqinghua
  *
  */
-package tij.chapter10.xfiles;
+package c10.xfiles;
