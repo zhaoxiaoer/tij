@@ -25,3 +25,5 @@ hs_err_pid*
 // zqh add
 bin
 *.DS_Store
+.classpath
+.project
